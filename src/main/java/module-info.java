@@ -3,7 +3,7 @@
     requires javafx.controls;
     requires javafx.fxml;
     requires java.sql;
-    requires com.mysql.jdbc;
+    //requires com.mysql.jdbc;
 
 
     opens me.nadha.dbms to javafx.fxml;
